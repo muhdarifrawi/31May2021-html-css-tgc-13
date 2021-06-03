@@ -1,0 +1,25 @@
+/* this is the parent */
+.container{
+    background-color:salmon;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+    /* align-items:flex-end; */
+    height:100vh;
+    align-content:center;
+}
+
+/* this is the child */
+.items{
+    background-color:orange;
+}
+
+/* order require seperate classes */
+
+/* .t-1{order:4;}
+
+.t-2{order:1;}
+
+.t-3{order:3;}
+
+.t-4{order:2;} */

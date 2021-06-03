@@ -1,0 +1,24 @@
+p {
+    background-color:salmon;
+    margin: 10px 20px 30px 40px;
+    /* border-style: dashed;
+    border-color:red;
+    border-width:5px; */
+    border: blue 1px dashed;
+    /* padding: 0 30vw 0 50vw; */
+    height:100px;
+    background-image:url("images/git-image.png");
+    background-position:center;
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    /* opacity:0.1; */
+    border-radius:25px;
+}
+
+img{
+    height:100px;
+}
+body{
+    height:300vh;
+}
